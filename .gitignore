@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.test-temp/
+.env
+.env.*
+!.env.example
+config.local.yaml
+secrets.*
+*.pdf
+*.doc
+*.docx
+*.xlsx
+*.zip
